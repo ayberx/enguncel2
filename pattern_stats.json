@@ -1,0 +1,14 @@
+{
+  "tweezer_bottom_long_15m": {
+    "win": 2,
+    "lose": 8
+  },
+  "pinbar_short_15m": {
+    "win": 0,
+    "lose": 2
+  },
+  "tweezer_top_short_15m": {
+    "win": 0,
+    "lose": 4
+  }
+}
